@@ -1,0 +1,102 @@
+{
+  "roots": [
+    {
+      "key": "wn8PE1RhG0znK1alrGFYv",
+      "title": "Root",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "83olvqfq5zvefu7y2c3s2rq",
+          "title": "Case Studies",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "ypug9sa7mbwn2gj2kgc7lxh",
+              "title": "Kpats",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "tere54vuyvucni7naw5ibdl",
+                  "title": "Barbell",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "550jrad7kzp78wtvsjz3144",
+          "title": "Pattern",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "c59hci7hrle0jqaj64vfva3",
+              "title": "Barbell Risk",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "r601g3jm7inqburdj4k4id8",
+              "title": "Have a System",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "502ti81tqh69xatpf39vxx2",
+              "title": "Program Length",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "ENDcCZFjAW9h66eDoFg7I",
+          "title": "Seed",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "wn8PE1RhG0znK1alrGFYv": null,
+    "83olvqfq5zvefu7y2c3s2rq": "wn8PE1RhG0znK1alrGFYv",
+    "ypug9sa7mbwn2gj2kgc7lxh": "83olvqfq5zvefu7y2c3s2rq",
+    "tere54vuyvucni7naw5ibdl": "ypug9sa7mbwn2gj2kgc7lxh",
+    "ENDcCZFjAW9h66eDoFg7I": "wn8PE1RhG0znK1alrGFYv",
+    "KboSDNpIShkOlDCJuWvZa": "ENDcCZFjAW9h66eDoFg7I",
+    "550jrad7kzp78wtvsjz3144": "wn8PE1RhG0znK1alrGFYv",
+    "502ti81tqh69xatpf39vxx2": "550jrad7kzp78wtvsjz3144",
+    "r601g3jm7inqburdj4k4id8": "550jrad7kzp78wtvsjz3144",
+    "c59hci7hrle0jqaj64vfva3": "550jrad7kzp78wtvsjz3144"
+  }
+}

@@ -1,0 +1,482 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1689128801747,
+      "created": 1689128801747,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "wn8PE1RhG0znK1alrGFYv": {
+      "id": "wn8PE1RhG0znK1alrGFYv",
+      "title": "Root",
+      "desc": "",
+      "updated": 1689126530550,
+      "created": 1631901573363,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "4210c2b7a16b5c08aacbf476a43aa654",
+      "links": [],
+      "anchors": {
+        "program-management-patterns": {
+          "type": "header",
+          "text": "Program Management Patterns",
+          "value": "program-management-patterns",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "550jrad7kzp78wtvsjz3144",
+        "ENDcCZFjAW9h66eDoFg7I",
+        "83olvqfq5zvefu7y2c3s2rq"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "83olvqfq5zvefu7y2c3s2rq": {
+      "fname": "case-studies",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1689128801644,
+      "created": 1689128801644,
+      "id": "83olvqfq5zvefu7y2c3s2rq",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "ypug9sa7mbwn2gj2kgc7lxh"
+      ],
+      "parent": "wn8PE1RhG0znK1alrGFYv",
+      "data": {},
+      "title": "Case Studies"
+    },
+    "ypug9sa7mbwn2gj2kgc7lxh": {
+      "fname": "case-studies.kpats",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1689128801644,
+      "created": 1689128801644,
+      "id": "ypug9sa7mbwn2gj2kgc7lxh",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "tere54vuyvucni7naw5ibdl"
+      ],
+      "parent": "83olvqfq5zvefu7y2c3s2rq",
+      "data": {},
+      "title": "Kpats"
+    },
+    "tere54vuyvucni7naw5ibdl": {
+      "id": "tere54vuyvucni7naw5ibdl",
+      "title": "Barbell",
+      "desc": "",
+      "updated": 1689128696486,
+      "created": 1689126905919,
+      "custom": {},
+      "fname": "case-studies.kpats.barbell",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "dab8a96d7af16d6059aa38e0838de6ed",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "case-studies.kpats.barbell",
+            "id": "tere54vuyvucni7naw5ibdl",
+            "vaultName": "vault"
+          },
+          "value": "pattern.barbell-risk",
+          "alias": "pattern.barbell-risk",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 3,
+              "offset": 181
+            },
+            "end": {
+              "line": 14,
+              "column": 27,
+              "offset": 205
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pattern.barbell-risk"
+          }
+        }
+      ],
+      "anchors": {
+        "situation": {
+          "type": "header",
+          "text": "Situation",
+          "value": "situation",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "task": {
+          "type": "header",
+          "text": "Task",
+          "value": "task",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "action": {
+          "type": "header",
+          "text": "Action",
+          "value": "action",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "result": {
+          "type": "header",
+          "text": "Result",
+          "value": "result",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "related-patterns": {
+          "type": "header",
+          "text": "Related patterns",
+          "value": "related-patterns",
+          "line": 18,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "ypug9sa7mbwn2gj2kgc7lxh",
+      "data": {}
+    },
+    "ENDcCZFjAW9h66eDoFg7I": {
+      "id": "ENDcCZFjAW9h66eDoFg7I",
+      "title": "Seed",
+      "desc": "",
+      "updated": 1654013219836,
+      "created": 1631921362276,
+      "nav_exclude_children": true,
+      "custom": {
+        "nav_exclude_children": true
+      },
+      "fname": "seed",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "de51ced1191ec49d23506124feb6e714",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "seed",
+            "id": "ENDcCZFjAW9h66eDoFg7I",
+            "vaultName": "vault"
+          },
+          "value": "seed.child",
+          "alias": "seed.child",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 1,
+              "offset": 47
+            },
+            "end": {
+              "line": 5,
+              "column": 15,
+              "offset": 61
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "seed.child"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "KboSDNpIShkOlDCJuWvZa"
+      ],
+      "parent": "wn8PE1RhG0znK1alrGFYv",
+      "data": {}
+    },
+    "KboSDNpIShkOlDCJuWvZa": {
+      "id": "KboSDNpIShkOlDCJuWvZa",
+      "title": "Child",
+      "desc": "",
+      "updated": 1631921393738,
+      "created": 1631921386219,
+      "custom": {},
+      "fname": "seed.child",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "f59fdce158653788eadf82bceb2bf826",
+      "links": [
+        {
+          "from": {
+            "fname": "seed",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 1,
+              "offset": 47
+            },
+            "end": {
+              "line": 5,
+              "column": 15,
+              "offset": 61
+            },
+            "indent": []
+          },
+          "value": "seed.child",
+          "alias": "seed.child"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "ENDcCZFjAW9h66eDoFg7I",
+      "data": {}
+    },
+    "550jrad7kzp78wtvsjz3144": {
+      "id": "550jrad7kzp78wtvsjz3144",
+      "title": "Pattern",
+      "desc": "",
+      "updated": 1689127910436,
+      "created": 1689127904423,
+      "custom": {},
+      "fname": "pattern",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "c5a787b203183c5cb7eddaa6b0527f83",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "c59hci7hrle0jqaj64vfva3",
+        "r601g3jm7inqburdj4k4id8",
+        "502ti81tqh69xatpf39vxx2"
+      ],
+      "parent": "wn8PE1RhG0znK1alrGFYv",
+      "data": {}
+    },
+    "502ti81tqh69xatpf39vxx2": {
+      "id": "502ti81tqh69xatpf39vxx2",
+      "title": "Program Length",
+      "desc": "",
+      "updated": 1689127136745,
+      "created": 1689127035357,
+      "custom": {},
+      "fname": "pattern.program-length",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "602c945fb28eeafec4eccf7a564d0931",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "550jrad7kzp78wtvsjz3144",
+      "data": {}
+    },
+    "r601g3jm7inqburdj4k4id8": {
+      "id": "r601g3jm7inqburdj4k4id8",
+      "title": "Have a System",
+      "desc": "",
+      "updated": 1689127958824,
+      "created": 1689126575920,
+      "custom": {},
+      "fname": "pattern.have-a-system",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "f93358c58cf423c0bfc5647b83cf7c03",
+      "links": [],
+      "anchors": {
+        "a-system": {
+          "type": "header",
+          "text": "A system",
+          "value": "a-system",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "closing-thoughts": {
+          "type": "header",
+          "text": "Closing thoughts",
+          "value": "closing-thoughts",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "550jrad7kzp78wtvsjz3144",
+      "data": {}
+    },
+    "c59hci7hrle0jqaj64vfva3": {
+      "id": "c59hci7hrle0jqaj64vfva3",
+      "title": "Barbell Risk",
+      "desc": "",
+      "updated": 1689126979223,
+      "created": 1689126979223,
+      "custom": {},
+      "fname": "pattern.barbell-risk",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "d3bab7a76f5ac70f45efc5ff074007a0",
+      "links": [
+        {
+          "from": {
+            "fname": "case-studies.kpats.barbell",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 3,
+              "offset": 181
+            },
+            "end": {
+              "line": 14,
+              "column": 27,
+              "offset": 205
+            },
+            "indent": []
+          },
+          "value": "pattern.barbell-risk",
+          "alias": "pattern.barbell-risk"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "550jrad7kzp78wtvsjz3144",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "wn8PE1RhG0znK1alrGFYv",
+      "title": "Root",
+      "desc": "",
+      "updated": 1689126530550,
+      "created": 1631901573363,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "4210c2b7a16b5c08aacbf476a43aa654",
+      "links": [],
+      "anchors": {
+        "program-management-patterns": {
+          "type": "header",
+          "text": "Program Management Patterns",
+          "value": "program-management-patterns",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "550jrad7kzp78wtvsjz3144",
+        "ENDcCZFjAW9h66eDoFg7I",
+        "83olvqfq5zvefu7y2c3s2rq"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\n# Program Management Patterns\n\n\n> \"People say, A Pattern Language changes their lives, by which I think they mean it changes the way they physically organize their lives... What Alexander and his co-authors set out to do was collect and organize the elements that make ... a 'pattern language'. \n\n-Stewart Brand editor, Whole Earth Catalog\n\n\n\n\n> This website is generated by a Dendron template. For more information, see the [template README file](https://github.com/dendronhq/template.publish.github-action/). Feel free to modify and delete this section."
+    }
+  ],
+  "noteIndex": {
+    "id": "wn8PE1RhG0znK1alrGFYv",
+    "title": "Root",
+    "desc": "",
+    "updated": 1689126530550,
+    "created": 1631901573363,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "contentHash": "4210c2b7a16b5c08aacbf476a43aa654",
+    "links": [],
+    "anchors": {
+      "program-management-patterns": {
+        "type": "header",
+        "text": "Program Management Patterns",
+        "value": "program-management-patterns",
+        "line": 8,
+        "column": 0,
+        "depth": 1
+      }
+    },
+    "children": [
+      "550jrad7kzp78wtvsjz3144",
+      "ENDcCZFjAW9h66eDoFg7I",
+      "83olvqfq5zvefu7y2c3s2rq"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "\n# Program Management Patterns\n\n\n> \"People say, A Pattern Language changes their lives, by which I think they mean it changes the way they physically organize their lives... What Alexander and his co-authors set out to do was collect and organize the elements that make ... a 'pattern language'. \n\n-Stewart Brand editor, Whole Earth Catalog\n\n\n\n\n> This website is generated by a Dendron template. For more information, see the [template README file](https://github.com/dendronhq/template.publish.github-action/). Feel free to modify and delete this section."
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}
