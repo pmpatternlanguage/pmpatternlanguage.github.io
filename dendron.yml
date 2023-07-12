@@ -86,13 +86,12 @@ publishing:
     enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
-    assetsPrefix: /template.publish.github-action
     copyAssets: true
     siteHierarchies:
         - root
     enableSiteLastModified: true
     siteRootDir: docs
-    siteUrl: https://dendronhq.github.io
+    siteUrl: https://pmpatternlanguage.github.io
     enableFrontmatterTags: true
     enableHashesForFMTags: false
     enableRandomlyColoredTags: true
@@ -102,8 +101,8 @@ publishing:
             - vault
     writeStubs: false
     seo:
-        title: Dendron
-        description: Personal knowledge space
+        title: PM Patterns
+        description: A Pattern Language of Program Management
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
