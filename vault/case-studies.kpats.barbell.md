@@ -2,11 +2,11 @@
 id: tere54vuyvucni7naw5ibdl
 title: Barbell
 desc: ''
-updated: 1689127010452
+updated: 1689128696486
 created: 1689126905919
 ---
 
-Masking risk
+Managing risk is part of the job. The entire job of program management can be boiled down to managing risk. 
 
 ## Situation
 
