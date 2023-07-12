@@ -2,7 +2,7 @@
 id: r601g3jm7inqburdj4k4id8
 title: Have a System
 desc: ''
-updated: 1689127284945
+updated: 1689127958824
 created: 1689126575920
 ---
 
@@ -10,6 +10,6 @@ created: 1689126575920
 
 ## A system
 
-It really doesn't matter if it's the GTD system, the ... 
+It really doesn't matter if it's the GTD system, the PARA method or some other combination of Outlook tasks and shoestring, the key is to have a system that creates a clear path for you to get jobs done and remember what jobs need to be done by others. 
 
 ## Closing thoughts
